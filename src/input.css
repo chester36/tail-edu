@@ -574,7 +574,7 @@
     @apply text-white text-[1.2rem] font-normal;
 }
 .footer__links{
-    @apply border-b-[.1rem] border-white pb-[5rem] lg:grid lg:grid-cols-4 lg:gap-[10rem];
+    @apply border-b-[.1rem] border-white pb-[5rem] lg:grid lg:grid-cols-4 lg:gap-[2rem];
 }
 .footer__copyright{
     @apply py-[2rem] lg:flex lg:items-center lg:justify-between;
